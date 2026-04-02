@@ -8,4 +8,8 @@ Cambio realizado en local.
 
 Cambio realizado en GitHub en la nube (rama main)
 
+
 Linea añadida desde mi computadora en la tarea.
+
+Línea añadida desde Github en la tarea.
+
